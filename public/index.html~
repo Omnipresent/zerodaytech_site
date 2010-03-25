@@ -1,6 +1,11 @@
 <head>
 	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
 	<link rel="stylesheet" href="/stylesheets/style.css" type="text/css" media="screen" title="no title" charset="utf-8"/>	
-	<title>Page Title</title>
+	<title>ZeroDay Tech</title>
+	<div id="box" >
+		<h4>ZeroDay Tech will be launching soon!</h4>		
+	</div>
+
+	
 	
 </head>
